@@ -17,13 +17,13 @@ function CriaCartão(categoria, pergunta, resposta) {
 
     let respostaEstaVisivel = false
 
-    function viraCartão() {
+    function viraCartao() {
         respostaEstaVisivel = !respostaEstaVisivel
         cartao.classList.toggle('active', respostaEstaVisivel)
     }
-    cartao.assEventListener('click', viraCartão)
+    cartao.assEventListener('click', viraCartao)
 
 
     container.appendChild(cartao)
-    
+
 }
