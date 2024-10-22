@@ -6,13 +6,13 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'batalha da maior explosão não nuclear em 1917',
+    'a batalha com a maior explosão não nuclear em 1917',
     'Batalha de Messines'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
+    'projeto',
+    'ideia ',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
