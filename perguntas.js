@@ -1,6 +1,6 @@
 criaCartao(
-    'programação',
-    'O que o Pyhton',
+    'Programação',
+    'O que é Python?',
     'O Python é uma linguagem de programação'
 )
 
@@ -19,17 +19,17 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz oi em Inglês?',
-    'Oi em inglês é HI (RAI)'
+    'Oi em ingles é HI (RAI)'
 )
 
 criaCartao(
     'Biologia',
-    'Quem é considerado o pai da genética',
+    'Quem é considerado o pai da genética?',
     'Gregor Mendel'
 )
 
 criaCartao(
-    'matemática',
+    'Matemática',
     'Qual é o valor de Pi?',
     '3,14'
 )
