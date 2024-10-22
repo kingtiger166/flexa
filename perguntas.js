@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'batalha da maior explosão não nuclear em 1917',
+    'Batalha de Messines'
 )
 
 criaCartao(
