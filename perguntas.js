@@ -1,35 +1,35 @@
 criaCartao(
     '2° GUERRA',
-    'qual foi a batalha que mudou o rumo da guerra',
+    'qual foi a batalha que mudou o rumo da guerra?',
     'stalingrado'
 )
 
 criaCartao(
-    'Geografia',
+    'GEOGRAFIA',
     'a batalha com a maior explosão não nuclear em 1917',
     'Batalha de Messines'
 )
 
 criaCartao(
-    'projeto',
-    'ideia ',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'PROJETO',
+    'ideia não concluida mas iniciada da alemanha para bombardear londres',
+    'lança foguetes v3'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'ALEMÃO',
+    'Como se diz oi em alemão?',
+    'Oi em alemão é Hallo (RALO)'
 )
 
 criaCartao(
-    'Biologia',
-    'Quem é considerado o pai da genética?',
-    'Gregor Mendel'
+    '1° GUERRA',
+    'qual era a formula quimica do gas mostarda?',
+    'C₄H₈Cl₂S'
 )
 
 criaCartao(
-    'Matemática',
-    'Qual é o valor de Pi?',
-    '3,14'
+    '2° GUERRA',
+    'Qual é a organização para lutar no front que foi fundada por hitler?',
+    'Schutzstaffel (SS)'
 )
